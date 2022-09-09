@@ -14,10 +14,10 @@ int main(void)
 	{
 		if (lett != 'e' && lett != 'q')
 	{
-		putchar (lett)
+		putchar (lett);
 	}
 
 	}
 
-	putchar ('\n')
+	putchar ('\n');
 }
