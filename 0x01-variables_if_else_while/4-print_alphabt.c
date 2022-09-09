@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - print if the number is postive, zero, or negative
  *
  * Description: using the main function
@@ -20,13 +19,13 @@ int main(void)
 
 	{
 
-		if (ch != 'e' && ch != 'q')
+	if (ch != 'e' && ch != 'q')
 
-		{
+	{
 
-				putchar(ch);
+		putchar(ch);
 
-		}
+	}
 
 	}
 
