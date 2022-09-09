@@ -13,7 +13,7 @@ int main(void)
 {
 	char val;
 
-	for (val = '0'; val < '9'; val++)
+	for (val = '0'; val <= '9'; val++)
 	{
 		putchar(val);
 	}
