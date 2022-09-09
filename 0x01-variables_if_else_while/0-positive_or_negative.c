@@ -6,8 +6,7 @@
 
 
 
-/**
- *
+/***
  * main - print if the number is postive, zero, or negative
  *
  *
@@ -38,7 +37,7 @@ int main(void)
 
 	{
 
-			printf("%i is positive\n", n);
+		printf("%i is positive\n", n);
 
 	}
 
@@ -46,7 +45,7 @@ int main(void)
 
 	{
 
-			printf("%i is zero\n", n);
+		printf("%i is zero\n", n);
 
 	}
 
@@ -54,7 +53,7 @@ int main(void)
 
 	{
 
-			printf("%i is negative\n", n);
+		printf("%i is negative\n", n);
 
 	}
 
